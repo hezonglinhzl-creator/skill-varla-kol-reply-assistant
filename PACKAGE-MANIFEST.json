@@ -1,7 +1,12 @@
 {
-  "files": 171,
-  "bytes": 35634541,
+  "files": 184,
+  "bytes": 35668675,
   "entries": [
+    {
+      "path": ".agents/plugins/marketplace.json",
+      "bytes": 409,
+      "sha256": "12283d55efa26805a091709e7f82756b48fb68c68463ec2877733ef2c6a3c3a8"
+    },
     {
       "path": ".gitignore",
       "bytes": 527,
@@ -69,8 +74,8 @@
     },
     {
       "path": "apps/varla-kol-command-center/app/feishu_sync.py",
-      "bytes": 18212,
-      "sha256": "c3eef0ffe57e91f0f2a5ff4f758bad29c825c3c9f9db8bab553eafaff7d88f5c"
+      "bytes": 17685,
+      "sha256": "5125aa8f96dba89f2f8376e0ffb61f60c40f29d4539a5f64c9e4b22d75b3e1f8"
     },
     {
       "path": "apps/varla-kol-command-center/app/gmail_gateway.py",
@@ -154,13 +159,13 @@
     },
     {
       "path": "apps/varla-kol-command-center/app/web/app.js",
-      "bytes": 54245,
-      "sha256": "e0ee0dbf111a61096a090ce2cd55428019f1267842af22cddf106928e7243180"
+      "bytes": 53264,
+      "sha256": "db8394908e069d0fd41b1bd001bf74855550b28e032fee572d8881662d454a09"
     },
     {
       "path": "apps/varla-kol-command-center/app/web/index.html",
-      "bytes": 19096,
-      "sha256": "22155fe0deb0a95b4c1eabcea4d9bd1c8c1f46c90e58bdd2b0699a321d90c3d0"
+      "bytes": 18836,
+      "sha256": "b72c833272ffc11b879bff8963417349a202170afa52d0e2c774a8571d4bd4f2"
     },
     {
       "path": "apps/varla-kol-command-center/app/web/styles.css",
@@ -196,6 +201,16 @@
       "path": "apps/varla-kol-command-center/pyproject.toml",
       "bytes": 744,
       "sha256": "bc2533789901256d1561b5de7f1d38b29b7fd3f61887302bc6bd968ad9e1a704"
+    },
+    {
+      "path": "apps/varla-kol-command-center/README.en.md",
+      "bytes": 2518,
+      "sha256": "d56f1d06a6453fcb4451737e5b7595c71a18f4f0899dfdd861890b16ea1d532d"
+    },
+    {
+      "path": "apps/varla-kol-command-center/README.md",
+      "bytes": 2464,
+      "sha256": "690422c475312419082e7c6caee0b8492865e880e52652b30d86d4b6c7b9410e"
     },
     {
       "path": "apps/varla-kol-command-center/README_使用说明.md",
@@ -759,8 +774,8 @@
     },
     {
       "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/README_使用说明.md",
-      "bytes": 2293,
-      "sha256": "7fe43d7fdb3318c9664177118c731eef100e0916cbd7a7b96d06461532b124ac"
+      "bytes": 2233,
+      "sha256": "bfc83ae81298ad08a5d96fb51eb361fbb0eeea87d41715cf1a95fea16c1bd528"
     },
     {
       "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/src/app.js",
@@ -793,6 +808,16 @@
       "sha256": "8469d20e2729200893932d0ee353b55c5c54086cccd5f0e4822ac6517eb08f96"
     },
     {
+      "path": "apps/varla-kol-reply-program/README.en.md",
+      "bytes": 2912,
+      "sha256": "2debabe8663acd52cf12498386aa558f5c594a30e5bad5190df0a1313410b9ea"
+    },
+    {
+      "path": "apps/varla-kol-reply-program/README.md",
+      "bytes": 2826,
+      "sha256": "ae1ccf3a752b761c485386b3c61ce88b023f234daa1244e7a63c2c7cb38c78b8"
+    },
+    {
       "path": "apps/varla-kol-reply-program/skill/varla-kol-reply-assistant/agents/openai.yaml",
       "bytes": 303,
       "sha256": "5da497a833f65b157425749b2a0d2bb7b0effde45f983ed0b045e5a641365f8b"
@@ -809,8 +834,8 @@
     },
     {
       "path": "apps/varla-kol-reply-program/skill/varla-kol-reply-assistant/SKILL.md",
-      "bytes": 4121,
-      "sha256": "e112cea4e2aed8fbabdc63003967a79a529e5055982b6784073cab7ff9d9d02a"
+      "bytes": 3754,
+      "sha256": "6b00740c6f4aee85466e19fbc09deebd7b8019be443e5ebc1a6d302851b92ad1"
     },
     {
       "path": "apps/varla-kol-reply-program/Varla-KOL-完整程序包-安装说明.md",
@@ -823,14 +848,54 @@
       "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
     },
     {
+      "path": "plugins/varla-kol-reply/.codex-plugin/plugin.json",
+      "bytes": 325,
+      "sha256": "9fc2f98bc51902ab7db94b2d9402b3fdcd8ab79827e0515c4228c205d756932d"
+    },
+    {
+      "path": "plugins/varla-kol-reply/plugin.json",
+      "bytes": 212,
+      "sha256": "791f22cab9f84c1165f85fd221b2ea50765c67cb71509a38492ff898866cd21e"
+    },
+    {
+      "path": "plugins/varla-kol-reply/README.en.md",
+      "bytes": 2142,
+      "sha256": "4febc711f4ae8f7838416e5dc9145ec37714b280208954d9d1028aacf007172d"
+    },
+    {
+      "path": "plugins/varla-kol-reply/README.md",
+      "bytes": 2051,
+      "sha256": "1fa65385136ccd40992463899c0aa5e34e2242dd1e9e5aca8b59dce44613815c"
+    },
+    {
+      "path": "plugins/varla-kol-reply/skills/instructions/SKILL.md",
+      "bytes": 891,
+      "sha256": "c46f4cfce0f3bbae0913b093ab3fcc7d41aa6044347a2196b7cd4b87c5b345c9"
+    },
+    {
+      "path": "README.en.md",
+      "bytes": 6021,
+      "sha256": "ca1062f220608e50805ec7fbd781eec8b8e011e2b54df6b83520b86c25f97349"
+    },
+    {
       "path": "README.md",
-      "bytes": 1091,
-      "sha256": "81af1ca798b5c3e5e8ca2ecd64ecf26dc00dabcac4013abacccea104e19cde88"
+      "bytes": 5714,
+      "sha256": "6b8ea0e55b1754ee068a2f59268276480152be157ead159937fb69b11ed7d785"
     },
     {
       "path": "skill/varla-kol-reply-assistant/agents/openai.yaml",
       "bytes": 267,
       "sha256": "fcf50a2aeb7e50061ca824817d5abd447acf673d8aed0c4a69b25b43f9756cd0"
+    },
+    {
+      "path": "skill/varla-kol-reply-assistant/README.en.md",
+      "bytes": 4599,
+      "sha256": "f41b6b46c77a7cc3d4728e372e944457d9caf1651ab9e4f37d3633d1da940e66"
+    },
+    {
+      "path": "skill/varla-kol-reply-assistant/README.md",
+      "bytes": 4408,
+      "sha256": "6c4353f1dc6243c060441809ef3f3168dd20e13da7b94b4573633e481cb30b91"
     },
     {
       "path": "skill/varla-kol-reply-assistant/references/ONE_FILE_GUIDE.md",
@@ -844,8 +909,8 @@
     },
     {
       "path": "skill/varla-kol-reply-assistant/SKILL.md",
-      "bytes": 15156,
-      "sha256": "3e6192f912d0374c50c05a7ff4eb4e893134c813e69e9e2a6dd4859df8915b70"
+      "bytes": 15084,
+      "sha256": "04966948bdeb0b5e15ea34c81a6b18a5494514801ff035a1e89dba8debbb7006"
     },
     {
       "path": "安装Skill.cmd",
