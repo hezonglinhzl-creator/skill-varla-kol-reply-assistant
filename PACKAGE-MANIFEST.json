@@ -1,6 +1,6 @@
 {
-  "files": 184,
-  "bytes": 35668675,
+  "files": 192,
+  "bytes": 36615016,
   "entries": [
     {
       "path": ".agents/plugins/marketplace.json",
@@ -9,8 +9,8 @@
     },
     {
       "path": ".gitignore",
-      "bytes": 527,
-      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+      "bytes": 552,
+      "sha256": "306594764a35cf47b68ddefaf227968de9684a1c465fafa94d821ba4c5162e96"
     },
     {
       "path": "apps/varla-kol-command-center/.gitignore",
@@ -54,8 +54,8 @@
     },
     {
       "path": "apps/varla-kol-command-center/app/config.py",
-      "bytes": 1760,
-      "sha256": "04f4baf482a56c76e9a12c8f2f531431fde03807263eb941d5cf5848282a2978"
+      "bytes": 2217,
+      "sha256": "6f9fe405dc817f109569f197f5a7d8f4e03d72ab20e80e5922b3f2cf84285d74"
     },
     {
       "path": "apps/varla-kol-command-center/app/context_alignment.py",
@@ -94,8 +94,8 @@
     },
     {
       "path": "apps/varla-kol-command-center/app/main.py",
-      "bytes": 47037,
-      "sha256": "fe55cabcfc6c85b932ecf2bf859a73994dff5b6443389716e4757e92df87f189"
+      "bytes": 46513,
+      "sha256": "964783de8c2bf977c08601d1749b733eb471827c5ca400c0b7d9341fde016cb6"
     },
     {
       "path": "apps/varla-kol-command-center/app/message_text.py",
@@ -109,8 +109,8 @@
     },
     {
       "path": "apps/varla-kol-command-center/app/production_services.py",
-      "bytes": 95915,
-      "sha256": "d493c176936c7c21d8d5ac6c57002adb3e78cc87c950ed6c48eb02e9e82d7166"
+      "bytes": 94996,
+      "sha256": "7718abd2d4e5e5bc6c846e04c181b42297a6f8445175fa6087b053d94632b056"
     },
     {
       "path": "apps/varla-kol-command-center/app/redaction.py",
@@ -164,8 +164,8 @@
     },
     {
       "path": "apps/varla-kol-command-center/app/web/index.html",
-      "bytes": 18836,
-      "sha256": "b72c833272ffc11b879bff8963417349a202170afa52d0e2c774a8571d4bd4f2"
+      "bytes": 18903,
+      "sha256": "87d9db5f9711496efa98993c4a4c95978c4a5939b9358e2859c2be03be7252fb"
     },
     {
       "path": "apps/varla-kol-command-center/app/web/styles.css",
@@ -189,8 +189,8 @@
     },
     {
       "path": "apps/varla-kol-command-center/config.example.json",
-      "bytes": 609,
-      "sha256": "00e71ce966321487cacd6aa193d8158d1176ce549e8136280128c730bd0ddbe6"
+      "bytes": 794,
+      "sha256": "d88bd66cecd521990f9c057d47dd728b5637b99bc0c1b93784087c8c7df72a73"
     },
     {
       "path": "apps/varla-kol-command-center/INSTALL_DESKTOP_LAUNCHER.bat",
@@ -204,18 +204,18 @@
     },
     {
       "path": "apps/varla-kol-command-center/README.en.md",
-      "bytes": 2518,
-      "sha256": "d56f1d06a6453fcb4451737e5b7595c71a18f4f0899dfdd861890b16ea1d532d"
+      "bytes": 2708,
+      "sha256": "eaae3dc655c4bec38fedbd8f5ed5727be909dae78aa395f7c5de2b476757f060"
     },
     {
       "path": "apps/varla-kol-command-center/README.md",
-      "bytes": 2464,
-      "sha256": "690422c475312419082e7c6caee0b8492865e880e52652b30d86d4b6c7b9410e"
+      "bytes": 2758,
+      "sha256": "5af27d7b40e2768fc040b729294c1389bab1e8ab029361706e79eb7d9f52dd10"
     },
     {
       "path": "apps/varla-kol-command-center/README_使用说明.md",
-      "bytes": 12566,
-      "sha256": "66a1a083503b99827efc23071c3429b22877d07260572eea6d3d9a4cc6f16aba"
+      "bytes": 12666,
+      "sha256": "64e0ab66fdad61d4f3cedaf36a816106caab565de50d14f4b228fbeed2cd391a"
     },
     {
       "path": "apps/varla-kol-command-center/requirements.lock",
@@ -411,6 +411,46 @@
       "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/chrome-extension/vendor/tesseract-core/tesseract-core.wasm.js",
       "bytes": 4734234,
       "sha256": "249b39a010a357cc0d9d61789a355105bc029091b7d446e651b96a4b4da15713"
+    },
+    {
+      "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/chrome-extension/vendor/tesseract.js/dist/tesseract.esm.min.js",
+      "bytes": 67175,
+      "sha256": "2537be686335e4b2637e933cdc85a52dd80267a592689c1bd63235c8591540ae"
+    },
+    {
+      "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/chrome-extension/vendor/tesseract.js/dist/tesseract.esm.min.js.map",
+      "bytes": 195523,
+      "sha256": "5e86d68663c4f8744233a2119f0d5ee4719f9c47a8128bd0bc981b54dcb00cee"
+    },
+    {
+      "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/chrome-extension/vendor/tesseract.js/dist/tesseract.min.js",
+      "bytes": 66695,
+      "sha256": "a8e29918d098b2b06e1012bdaeffb4aec0445c5d5654709023e0bd1f442a80e8"
+    },
+    {
+      "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/chrome-extension/vendor/tesseract.js/dist/tesseract.min.js.LICENSE.txt",
+      "bytes": 149,
+      "sha256": "cdf963ced7d25a0f98901a547647b4d6e2dbe0197fd78c87a059a87b0e542fe2"
+    },
+    {
+      "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/chrome-extension/vendor/tesseract.js/dist/tesseract.min.js.map",
+      "bytes": 131299,
+      "sha256": "6fc17294ef60e67d0e6e840eae3610328932c32d1fee1943517b579eb43e68cc"
+    },
+    {
+      "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/chrome-extension/vendor/tesseract.js/dist/worker.min.js",
+      "bytes": 123724,
+      "sha256": "aca1229639fc9907d86f96e825955a2b7c5716d17f3bc3acd71f9c7ab66181fc"
+    },
+    {
+      "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/chrome-extension/vendor/tesseract.js/dist/worker.min.js.LICENSE.txt",
+      "bytes": 466,
+      "sha256": "45f54171aeaa1d10c0c1a66f374b7bba1f02472b1487fbe892eec04f840002ac"
+    },
+    {
+      "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/chrome-extension/vendor/tesseract.js/dist/worker.min.js.map",
+      "bytes": 357203,
+      "sha256": "29019d8ff7b111c8b738bd1aae5ecb76d004af07a8cef300ea340f677cb9318e"
     },
     {
       "path": "apps/varla-kol-reply-program/program/varla-kol-reply-assistant/chrome-extension/vendor/tesseract.js/docs/api.md",
@@ -844,8 +884,8 @@
     },
     {
       "path": "install.ps1",
-      "bytes": 646,
-      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+      "bytes": 2339,
+      "sha256": "d662489ba0c1bf009c714b6030eab322a04042b5d8ff441eeb56bb4549763dd3"
     },
     {
       "path": "plugins/varla-kol-reply/.codex-plugin/plugin.json",
@@ -874,13 +914,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 6021,
-      "sha256": "ca1062f220608e50805ec7fbd781eec8b8e011e2b54df6b83520b86c25f97349"
+      "bytes": 6501,
+      "sha256": "e181f0ae62cf17f7c0c6421e6e64f710bd2480e1b92abb3a47482109887c9bde"
     },
     {
       "path": "README.md",
-      "bytes": 5714,
-      "sha256": "6b8ea0e55b1754ee068a2f59268276480152be157ead159937fb69b11ed7d785"
+      "bytes": 6244,
+      "sha256": "6170420ede7d9f17011ac2f7d8c18b187f1bbe9643251bf8aa1696247684e34a"
     },
     {
       "path": "skill/varla-kol-reply-assistant/agents/openai.yaml",
@@ -889,13 +929,13 @@
     },
     {
       "path": "skill/varla-kol-reply-assistant/README.en.md",
-      "bytes": 4599,
-      "sha256": "f41b6b46c77a7cc3d4728e372e944457d9caf1651ab9e4f37d3633d1da940e66"
+      "bytes": 4789,
+      "sha256": "2b057ac3ec784af59001499ec524f0cc6b26d7ca7e86e22d0553164b1f97998f"
     },
     {
       "path": "skill/varla-kol-reply-assistant/README.md",
-      "bytes": 4408,
-      "sha256": "6c4353f1dc6243c060441809ef3f3168dd20e13da7b94b4573633e481cb30b91"
+      "bytes": 4702,
+      "sha256": "f771c7bc4daa0067e97add6a6963c47577fef0b65c2884ee2f111923334c8476"
     },
     {
       "path": "skill/varla-kol-reply-assistant/references/ONE_FILE_GUIDE.md",
@@ -909,8 +949,8 @@
     },
     {
       "path": "skill/varla-kol-reply-assistant/SKILL.md",
-      "bytes": 15084,
-      "sha256": "04966948bdeb0b5e15ea34c81a6b18a5494514801ff035a1e89dba8debbb7006"
+      "bytes": 16129,
+      "sha256": "61934c707f0dfec1826f17b29e82a898cb42c764ec0bc99efae7dfd98bcce0a1"
     },
     {
       "path": "安装Skill.cmd",
